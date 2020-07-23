@@ -8,4 +8,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Twitter.
 - 💬 Ask me about iOS, Flutter or any tech related stuff.
 - 📫 How to reach me: Twitter - @Kuldeep21582855
--->
