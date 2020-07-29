@@ -1,4 +1,5 @@
-### Hi there, I'm Kuldeep Singh! 👋
+### Hi there, I'm Kuldeep Singh!  
+iOS & Flutter Developer.
 
 
 Here are some ideas to get you started:
