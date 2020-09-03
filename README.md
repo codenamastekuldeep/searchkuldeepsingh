@@ -12,7 +12,6 @@ Great Analytical Thinking, Design Oriented Software Engineer with passion for Mo
 
 * For every project that I work, I adopt up-to-date technology and take advantage of the best practices.  
 * I have strong knowledge of Swift, Objective-C and third party frameworks. (especially iOS 13 & Swift 5, Xcode)  
-* I am also experienced with Kotlin, Java and Android operating system  
 * I always try to write clean and manageable code   
 * I have extensive experience in building native iOS apps as well as developing application on cross-platform like Flutter,   
 
