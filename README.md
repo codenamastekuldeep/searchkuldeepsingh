@@ -8,21 +8,27 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working iOS and Flutter.
 - 📫 How to reach me: Twitter - @searchkuldeep
 
-Great Analytical Thinking, Design Oriented Software Engineer with passion for Mobile Application Development - over 8 years in Mobile Development.  
+Experienced Software Engineer with an experience of over 8 years and with a demonstrated history of working in Startups, E-Commerce, Education and advertising domain.
 
-* For every project that I work, I adopt up-to-date technology and take advantage of the best practices.  
-* I have strong knowledge of Swift, Objective-C and third party frameworks. (especially iOS 13 & Swift 5, Xcode)  
-* I always try to write clean and manageable code   
-* I have extensive experience in building native iOS apps as well as developing application on cross-platform like Flutter,   
+Skilled in Mobile Application Development with tech stack that includes
 
-My skills and development specialities are:
-✔ Programming languages: Swift, Objective-C, C++, Dart, 
-✔ Web Service: XML, JSON, REST/SOAP
-✔ Frameworks: Foundation, UIKit, Flutter, CarPlay, AVFoundation, CoreData,
-✔ Database: CoreData, FireBase, SQLite, Realm 
-✔ Maps: MapKit, Google Maps, Open Street Map, Map clusterring 
-✔ Audio Video: AVAudioPlayer, AVPlayer, AudioKit, Mobile Video Player  
-✔ Development tools: Xcode, CocoaPods  
-✔ Source code management: Git, GitHub, Bitbucket  
-✔ Social networks integration: Facebook, Twitter, Google+ and Instagram  
-✔ Application beta testing: TestFlight, Fabric (Crashlytics) ✔ In App Purchase ✔ WatchOS development
+1. Basic - Xcode IDE, Playground, Swift , Objective-C, Mobile HIG
+2. App Architect, life-cycle, Auto-layout, View- ViewController Programming, SwiftUI, Storyboard, Nibs and Code
+3. Cocoa Design Pattern - MVC, Singleton, Delegate, RsponderChain, Observer
+4. Networking:- RESTful APIs, TCP/IP Socket APIs
+5. Protocol-Oriented Programming
+6. Concurrent Programming - DispatchQueue, GCD, OperationQueue, Blocks
+7. Advanced Design Pattern - MVVM, VIPER.
+8. Reactive Programming - RxSwift, ReactiveCocoa.
+9. System Frameworks - Core Foundation, Cocoa Touch, Core Data.
+10. Data Persistence - Core Data, Sqlite, Realm, Serialize(JSON, Plist), Keychain, Cloud (iCloud, Firebase)
+11. Project Manager - SPM, Cocoapods
+12. Memory Management - ARC, MRC
+13. Instruments - Allocations, Leaks, Network, Activity, Energy, Layout, System Trace, Time Profile
+14. Testing - XCTest(TDD, Mocks), UITest, Code Coverage
+15. Debugging - LLDB, Break-Pointer
+16. CI - Jenkins, Travis, Fastlane, Xcode Server
+17. Analytic Tools - GA, Fabric, TestFlight, user habit.
+18. App Store - Review Guideline, iTunes Connect.
+19. Source Control - Git, Bitbucket.
+20. SOLID Design Principles - Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, Dependency Inversion
