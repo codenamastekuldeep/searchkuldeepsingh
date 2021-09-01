@@ -4,9 +4,9 @@ iOS & Flutter Developer.
 
 Here are some ideas to get you started:
 
-- 🔭 iOS and macOS developer since '2012.
-- 🌱 I’m currently working iOS and Flutter.
-- 📫 How to reach me: Twitter - @searchkuldeep
+-  🔭 iOS and macOS developer since '2012.
+-  🌱 I’m currently working iOS and Flutter.
+-  📫 How to reach me: Twitter - @searchkuldeep
 
 Experienced Software Engineer with an experience of over 8 years and with a demonstrated history of working in Startups, E-Commerce, Education and advertising domain.
 
